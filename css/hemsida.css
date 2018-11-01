@@ -1,0 +1,47 @@
+body{
+     background-image: url(../bilder/bakgrund.jpg);
+     background-size: cover;
+     margin: 0 6%
+}          
+li{
+    
+}
+aside{
+    width: 20%;
+    text-align:left;
+    float: left;
+    padding:1 2% ;
+    
+   
+}
+main{
+    width: 80%;
+    margin-left: 20%;
+    margin-top: 2%;
+    padding: 0 2%;
+        
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    border-style:dashed;
+    border-width:medium;
+    border-color: red;
+    color: black;
+    font-size: 2em;
+    padding: 1 2%;
+    border-radius: 130px;
+}
+p{
+    color: aliceblue;
+}
+li{
+    color: aliceblue;
+}
+aside>h1{
+    color: white;
+    font-size: 2em;
+    padding: 1 2%;
+    margin-top: 0px;
+}
+
